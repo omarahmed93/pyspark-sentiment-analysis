@@ -10,7 +10,7 @@ This aligns well with my data-science background (machine learning, NLP) and int
 - `spark_project.ipynb` — The main notebook: data pre-processing, feature engineering (tokenization, stop-words removal, vectorization), model training & evaluation (using Spark ML).  
 - `AdvancedDB_project.ipynb` — Supplementary notebook (optional) showing advanced database integration (e.g., reading/writing from/to relational or NoSQL storage) and Spark SQL approaches.  
 - README (you are reading it)  
-- (Future) perhaps a `requirements.txt`, Python scripts (.py), and deployment instructions.
+
 
 ---
 
